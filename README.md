@@ -1,8 +1,15 @@
 ### Hi I'm Bri06 👋
 
+### 📊 My github stats
+<div>
+  <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bri06&theme=radical" alt="bri06" />
+ </div>
+ <br>
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bri06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bri06&layout=compact&langs_count=7&theme=dracula" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bri06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bri06&layout=compact&langs_count=7&theme=dracula" />
+ </div>
 </div>
 
  ![Snake animation](https://github.com/bri06/bri06/blob/output/github-contribution-grid-snake.svg)
